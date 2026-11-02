@@ -1,0 +1,4 @@
+interface:
+  display_name: "界面精炼 · UI Refinery"
+  short_description: "按任务规模设计软件界面，统一视觉规范与交互状态，用真实截图评审精修"
+  default_prompt: "使用 $ui-refinery 设计或改进当前 UI：按任务范围探索或沿用方向，统一视觉规范，补齐相关交互状态，并根据真实截图和操作结果精修。"
